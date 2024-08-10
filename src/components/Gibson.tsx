@@ -23,7 +23,7 @@ const Gibson: React.FC = () => {
 
   return (
     <div className='main-container'>
-      <h2>Gibson Guitar Date Decoder</h2>
+      <h2>Gibson Guitar Decoder</h2>
       <input
         type="text"
         value={serial}
